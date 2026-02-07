@@ -29,7 +29,7 @@ Example:
 - **LU27 (February 2, 2025)** – ActionTag introduced  
 - **LU46 (July 26, 2025)** – Reaction Roles released  
 
-➡️ Full release timeline: **TIMELINE.md**
+➡️ **[View Full release feature timeline here](timeline.md)**
 
 > Between major LU releases, LazaBot receives frequent minor fixes, stability improvements, and quality-of-life updates that are not individually listed.
 
