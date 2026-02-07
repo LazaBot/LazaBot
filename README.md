@@ -17,7 +17,7 @@ LazaBot is Designed to assist Discord servers with AutoMod, Leveling, Giveaways,
 - **Giveaway System** – Host and manage giveaways easily  
 - **StarBoard** – Highlight popular messages in a dedicated channel  
 
-➡️ View all features: **FEATURES.md**
+➡️ **[View all LazaBot features here](features.md)**
 
 ---
 
